@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Caverna do Torresmo - Save Editor para ETS2 e ATS">
+<defs>
+  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c0b1a"/><stop offset=".55" stop-color="#24102d"/><stop offset="1" stop-color="#401239"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffbb38"/><stop offset="1" stop-color="#ffe486"/></linearGradient>
+</defs>
+<rect width="1280" height="320" rx="22" fill="url(#night)"/>
+<g opacity=".3" fill="#0b0915"><path d="M0 260V190h35v30h35v-66h62v60h35v-92h60v120h45v-56h55v50h35v-100h56v65h44v-90h47v130h40v-66h45v85h43v-110h50v94h52v-67h49v79h40v-100h49v77h52v-65h39v83h45v-122h50v85h50v-44h40v98h30v-92h55v104h40v-71h45v70h50v-44h44v108H0z"/></g>
+<g opacity=".6" stroke="#ff4cb5" stroke-width="3"><path d="M990 14l115 145"/><path d="M1040 14l115 145"/><path d="M1090 14l115 145"/></g>
+<circle cx="171" cy="158" r="111" fill="#180e27" stroke="#ffba37" stroke-width="6"/><circle cx="171" cy="158" r="99" fill="none" stroke="#e942a6" stroke-width="3"/>
+<path d="M100 151l-26-22 7 53 26-6M242 151l26-22-7 53-26-6" fill="#e997a7" stroke="#9d475e" stroke-width="4"/>
+<ellipse cx="170" cy="161" rx="73" ry="68" fill="#f7a4b4" stroke="#ae526d" stroke-width="4"/>
+<path d="M99 111h143l-15-34h-115z" fill="#11121c"/><path d="M83 116h175v18H83z" fill="#11121c"/><path d="M112 107h115v7H112z" fill="#ffba37"/>
+<path d="M114 143h116v32h-116z" fill="#11121c"/><path d="M169 143v32" stroke="#ffbe47" stroke-width="4"/><path d="M118 147h44v22h-44zM176 147h47v22h-47z" fill="#151521" stroke="#e9a52a" stroke-width="3"/>
+<ellipse cx="170" cy="193" rx="42" ry="30" fill="#ec7893" stroke="#a7465c" stroke-width="4"/><ellipse cx="157" cy="193" rx="8" ry="10" fill="#a7465c"/><ellipse cx="184" cy="193" rx="8" ry="10" fill="#a7465c"/>
+<path d="M100 232q71 20 140 0l22 40H79z" fill="#11121c"/><path d="M165 238l9 0-3 26z" fill="#ffd375"/>
+<text x="321" y="105" fill="url(#gold)" font-family="Segoe UI,Arial,sans-serif" font-size="59" font-weight="900" letter-spacing="1">CAVERNA DO TORRESMO</text>
+<text x="326" y="160" fill="#fff4fb" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">SAVE EDITOR  •  COACHES</text>
+<rect x="326" y="189" width="720" height="54" rx="15" fill="#64214c" stroke="#ed6bb9" stroke-width="2"/>
+<text x="351" y="225" fill="#fff0e7" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">ETS2  •  ATS  •  WINDOWS  •  100% LOCAL</text>
+<text x="328" y="282" fill="#ffcb5d" font-family="Segoe UI,Arial,sans-serif" font-size="20">Uma ferramenta da comunidade, feita para jogadores.</text>
+</svg>
